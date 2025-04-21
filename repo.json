@@ -1,14 +1,14 @@
 {
   "name": "LetterBomb Repo",
-  "author": "TuNombre",
+  "author": "N1NT3ND0C0LECT",
   "description": "Descarga LetterBomb para Wii desde tu 3DS",
   "apps": [
     {
       "name": "LetterBomb (NTSC)",
       "author": "Team Twiizers",
       "description": "Exploit para Wii. Copiar a la SD y usar en el menú de mensajes.",
-      "icon": "https://tuusuario.github.io/letterbomb-updater/icon.png",
-      "path": "https://tuusuario.github.io/letterbomb-updater/LetterBomb-NTSC.zip",
+      "icon": "https://N1NT3ND0C0LECT.github.io/letterbomb-updater/icon.png",
+      "path": "https://N1NT3ND0C0LECT.github.io/letterbomb-updater/LetterBomb-NTSC.zip",
       "version": "1.0",
       "type": "zip"
     }
