@@ -1,3 +1,3 @@
-# letterbomb-distribucion
+# letterbomb-updater
 
 Only for my Wii
