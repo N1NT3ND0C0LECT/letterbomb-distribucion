@@ -1,8 +1,8 @@
 {
   "storeInfo": {
-    "title": "LetterBomb Repo",
+    "title": "LetterBomb-Update",
     "author": "N1NT3ND0C0LECT",
-    "description": "Descarga LetterBomb para Wii desde tu 3DS",
+    "description": "Exploit LetterBomb para Wii",
     "version": 1,
     "revision": 1
   },
@@ -11,12 +11,12 @@
       "info": {
         "title": "LetterBomb (NTSC)",
         "author": "Team Twiizers",
-        "description": "Exploit para Wii. Copiar a la SD y usar en el menú de mensajes.",
+        "description": "Exploit para Wii. Copia el contenido a tu SD.",
         "version": "1.0",
         "category": ["exploit"],
         "console": ["Wii"]
       },
-      "LetterBomb-NTSC.zip": [
+      "files": [
         {
           "type": "downloadFile",
           "file": "https://n1nt3nd0c0lect.github.io/letterbomb-updater/LetterBomb-NTSC.zip",
