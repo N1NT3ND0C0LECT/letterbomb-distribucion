@@ -1,28 +1,23 @@
 {
-  "storeInfo": {
-    "title": "LetterBomb-Update",
+  "info": {
+    "name": "LetterBomb Repo",
     "author": "N1NT3ND0C0LECT",
-    "description": "Exploit LetterBomb para Wii",
-    "version": 1,
-    "revision": 1
+    "description": "Exploit para Wii",
+    "version": 1
   },
-  "storeContent": [
+  "apps": [
     {
-      "info": {
-        "title": "LetterBomb (NTSC)",
-        "author": "Team Twiizers",
-        "description": "Exploit para Wii. Copia el contenido a tu SD.",
-        "version": "1.0",
-        "category": ["exploit"],
-        "console": ["Wii"]
-      },
+      "title": "LetterBomb (NTSC)",
+      "author": "Team Twiizers",
+      "description": "Exploit para Wii. Copiar a la SD y abrir desde el canal de mensajes.",
+      "version": "1.0",
+      "iconUrl": "https://n1nt3nd0c0lect.github.io/letterbomb-updater/icon.png",
       "files": [
         {
-          "type": "downloadFile",
-          "file": "https://n1nt3nd0c0lect.github.io/letterbomb-updater/LetterBomb-NTSC.zip",
-          "output": "sdmc:/LetterBomb-NTSC.zip"
+          "url": "https://n1nt3nd0c0lect.github.io/letterbomb-updater/LetterBomb-NTSC.zip",
+          "extract": false,
+          "path": "/LetterBomb-NTSC.zip"
         }
       ]
     }
   ]
-}
